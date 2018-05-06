@@ -1,0 +1,38 @@
+.center-div
+{
+  text-align: center;
+   }
+
+.Home-view {
+    background-image: url("GGB.jpg");
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+.Home-view h2 a {
+  color: white;
+}
+
+.Profile-view {
+  text-align: center;
+}
+
+h1 {
+    color: white;
+    text-shadow: 4px 4px black;
+}
+
+
+.avatar {
+  border-radius: 50%;
+  height: 50%;
+  width: 50%;
+}
+
+.avatars {
+  margin: 0 auto;
+}
+
+.cohort-pics {
+  height: auto;
+  width: 200px;
+}

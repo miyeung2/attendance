@@ -1,3 +1,4 @@
 # attendance tracker app
-test
-aaaa
+-Pick DM site
+-Choose profile
+-Sign in/Sign out
