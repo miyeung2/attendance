@@ -10,13 +10,15 @@
 }
 .Home-view h2 a {
   color: white;
+  text-shadow: 2px 2px black;
 }
 
 .Profile-view {
   text-align: center;
+  background-image: url("whitebg.jpg");
 }
 
-h1 {
+.Home-view h1 {
     color: white;
     text-shadow: 4px 4px black;
 }
@@ -24,8 +26,16 @@ h1 {
 
 .avatar {
   border-radius: 50%;
-  height: 50%;
-  width: 50%;
+  height: 200px;
+  width: 200px;
+  overflow: hidden;
+  display: block;
+  margin: 0 auto;
+
+}
+.avatar img {
+  max-width: 100%;
+  height: auto;
 }
 
 .avatars {

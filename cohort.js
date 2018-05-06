@@ -1,7 +1,7 @@
 var studentListItem = function(id, name, pictureUrl, cuisine, rating) {
   return `<div class="col-sm-4">
     <div class="mb-4">
-      <a href="taqueria.html?id=${id}"><img class="avatar" src="${pictureUrl}"></a>
+      <a class="avatar" href="taqueria.html?id=${id}"><img  src="${pictureUrl}"></a>
       <div class="card-body">
         <h2><a href="taqueria.html?id=${id}">${name}</a></h2>
         <div class="d-flex justify-content-center align-items-center">
