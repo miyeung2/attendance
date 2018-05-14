@@ -4,9 +4,9 @@
    }
 
 .Home-view {
-    background-image: url("GGB.jpg");
+    background-image: url("classe.png");
     background-repeat: no-repeat;
-    background-size: auto;
+    background-size: cover;
 }
 .Home-view h2 a {
   color: white;
@@ -15,7 +15,8 @@
 
 .Profile-view {
   text-align: center;
-  background-image: url("whitebg.jpg");
+  background-image: url("greyblur.jpg");
+  background-size: cover;
 }
 
 .Home-view h1 {
@@ -45,4 +46,5 @@
 .cohort-pics {
   height: auto;
   width: 200px;
+  border-radius: 8px;
 }
